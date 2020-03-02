@@ -1,0 +1,46 @@
+.header-top-mail, .header-top-map, .header-top-phone, .instagram_white, .twitter_white1, .vk, .facebook-logo{
+	background: url(sprites.png) no-repeat;
+}
+
+.header-top-mail{
+	background-position: 0 0;
+	width: 21px;
+	height: 16px;
+}
+
+.header-top-map{
+	background-position: -25px 0;
+	width: 10px;
+	height: 15px;
+}
+
+.header-top-phone{
+	background-position: -40px 0;
+	width: 14px;
+	height: 14px;
+}
+
+.instagram_white{
+	background-position: -55.984375px 0;
+	width: 16px;
+	height: 16px;
+}
+
+.twitter_white1{
+	background-position: -75px 0;
+	width: 18px;
+	height: 15px;
+}
+
+.vk{
+	background-position: -100px 0;
+	width: 25px;
+	height: 14px;
+}
+
+.facebook-logo{
+	background-position: -130px 0;
+	width: 10px;
+	height: 18px;
+}
+

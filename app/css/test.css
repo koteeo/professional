@@ -1,0 +1,22 @@
+.test-box {
+	width: 600px;
+	height: 600px;
+	background-color: blue;
+}
+.test-image {
+	width: 500px;
+	height: 500px;
+	border: 1px dashed red;
+	margin: 10px 30px;
+}
+
+.test-image::before {
+	content: "";
+	background-color: red;
+	background-image: url("../img/for-sprites/sprites.png");
+	color: white;
+	background-position: -25px 0;
+	display: inline-block;
+	width: 10px;
+	height: 15px;
+}
